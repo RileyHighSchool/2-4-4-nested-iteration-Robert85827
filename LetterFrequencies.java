@@ -1,5 +1,6 @@
 /*
  * Activity 2.4.4
+ * 
  */
 import java.util.Scanner;
 public class LetterFrequencies
